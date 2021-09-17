@@ -1,0 +1,27 @@
+                        >> Licencja Pluginu xKenWhitelist <<
+
+    Plugin został napisany przez KenKOfficial (Discord: xKenKOfficial#6109)
+
+        Wszelkie edycje, udostępnianie kodu itd jest surowo zabronione!
+
+
+
+
+    Plugin powstał na rzecz użytkowania na serwerach Minecraft. Plugin ma służyć
+    do potrzebnych spraw. Plugin nie naraża rozgrywki graczą. Wszelkie edycje
+    kodu pluginu jest surowo zabronione.
+
+-------------------------------------------------------------------------------------
+
+                        >> xKenWhitelist Plugin License <<
+
+    The plugin was written by KenKOfficial (Discord: xKenKOfficial#6109)
+
+        Any editing, code sharing etc. is strictly forbidden!
+
+
+
+
+    The plugin was created for use on Minecraft servers. The plugin is meant to be used
+    to the things you need. The plugin does not endanger the gameplay. Any edits
+    plug-in code is strictly forbidden.

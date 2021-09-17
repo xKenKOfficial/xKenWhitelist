@@ -1,0 +1,26 @@
+# Here you can set a plugin prefix:
+prefix: "&3&lxKenWhitelist"
+
+# Here you can set the no permissions message:
+no_permissions: "&8>> &cYou do not have access to this command!"
+
+# Here you can set the message to the /whitelist command:
+whitelist_usage: "&8>> &7Correct use of &8: &b/whitelist (on/off/add/remove) (nick)"
+
+# Here you can set a message when the whitelist is on (if you want the next line use \n or {N}):
+whitelist_kick: "&8>> &cYou are not added to the whitelist!"
+
+# Here you can set a message if the whitelist has been enabled:
+whitelist_on: "&8>> &aWhitelist has been turned on!"
+
+# Here you can set a message if the whitelist has been disabled:
+whitelist_off: "&8>> &cWhitelist has been shut down!"
+
+# Here you can set a message if a player has been added to the whitelist:
+whitelist_add_player: "&8>> &7Added to &aWhitelst &7player&8: &b{PLAYER}"
+
+# Here you can set a message if any player has been removed from the whitelist:
+whitelist_remove_player: "&8>> &7Removed from &cWhitelist &7player&8: &b{PLAYER}"
+
+# Send information about a plugin?
+plugin_information: true

@@ -1,0 +1,9 @@
+main: x.KenKOfficial.Whitelist.Main.Main
+version: 1.0-Beta
+name: xKenWhitelist
+author: KenKOfficial
+description: Plugin Autorstwa KenKOfficial
+website: https://discord.gg/2HDuZrEFTg
+
+commands:
+  whitelist:
