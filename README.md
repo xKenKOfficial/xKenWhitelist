@@ -1,2 +1,2 @@
 # xKenWhitelist
- Plugin for whitelist on our servers.
+ Plugin na whiteliste serwera.
